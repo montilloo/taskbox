@@ -2,6 +2,7 @@ import TaskList from './TaskList.vue';
 
 import * as TaskStories from './Task.stories';
 
+// 装饰器 提供了一种任意包装story的方法。上述例子中我们在default export中使用decorator关键字来添加样式。装饰器也可以给组件添加其他上下文，详见下文。
 export default {
   component: TaskList,
   title: 'TaskList',

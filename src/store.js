@@ -1,3 +1,4 @@
+// 在src/store.js中我们构建了一个标准的 Vuex store 来处理一些可能的改变状态的操作。
 import { createStore } from 'vuex';
 
 export default createStore({

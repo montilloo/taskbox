@@ -7,7 +7,7 @@
 		"@storybook/addon-actions": "6.3.4",
 		"@storybook/addon-essentials": "^6.3.4",
 		"@storybook/addon-links": "^6.3.4",
-		"@storybook/addon-storyshots": "^6.3.4",
+		"@storybook/addon-storyshots": "^6.3.7",
 		"@storybook/testing-vue": "^0.0.1",
 		"@storybook/vue3": "^6.3.4",
 		"@vue/cli-plugin-babel": "~4.5.0",
